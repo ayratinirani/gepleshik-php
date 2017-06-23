@@ -7,8 +7,8 @@
 | These details are used in emails sent by authentication library.
 |--------------------------------------------------------------------------
 */
-$config['website_name'] = 'Your project';
-$config['webmaster_email'] = 'webmaster@your-site.com';
+$config['website_name'] = 'gepleshik.ounegh.ir';
+$config['webmaster_email'] = 'haji@ounegh.ir';
 
 /*
 |--------------------------------------------------------------------------
@@ -19,7 +19,7 @@ $config['webmaster_email'] = 'webmaster@your-site.com';
 | 'phpass_hash_strength' = Password hash strength.
 |--------------------------------------------------------------------------
 */
-$config['phpass_hash_portable'] = FALSE;
+$config['phpass_hash_portable'] = TRUE;
 $config['phpass_hash_strength'] = 8;
 
 /*
